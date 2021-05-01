@@ -4,4 +4,4 @@ DiscretWavelet3.m
 LDP_MET.m
 Angley_x.m
 method_LDP.m .......  are the files
-remaining from prof. Ivans Bajic research group.
+remaining from prof. Ivans Bajic(SFU) ,research group.
