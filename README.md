@@ -8,4 +8,5 @@ remaining from prof. Ivans Bajic(SFU) ,research group.
 
 Line no. 79 onwards discrete wavelet
 
+Line no. 20 onwards LDP the functions for Line 20 and Line 79 are there
 
